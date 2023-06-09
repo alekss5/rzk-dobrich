@@ -2,7 +2,7 @@ import {createBrowserRouter,RouterProvider} from 'react-router-dom'
 import Homepage from './Pages/homepage';
 const router = createBrowserRouter([
   {
-    path: '/',
+    path: '/rzk-dobrich',
     element:<Homepage/>
   },
   
