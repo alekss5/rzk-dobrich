@@ -1,16 +1,10 @@
 {
   "files": {
-    "main.css": "/rzk-dobrich/static/css/main.073c9b0a.css",
-    "main.js": "/rzk-dobrich/static/js/main.2acf0bea.js",
-    "static/js/787.3257611c.chunk.js": "/rzk-dobrich/static/js/787.3257611c.chunk.js",
-    "static/media/logo.svg": "/rzk-dobrich/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "main.js": "/rzk-dobrich/static/js/main.84bb30cc.js",
     "index.html": "/rzk-dobrich/index.html",
-    "main.073c9b0a.css.map": "/rzk-dobrich/static/css/main.073c9b0a.css.map",
-    "main.2acf0bea.js.map": "/rzk-dobrich/static/js/main.2acf0bea.js.map",
-    "787.3257611c.chunk.js.map": "/rzk-dobrich/static/js/787.3257611c.chunk.js.map"
+    "main.84bb30cc.js.map": "/rzk-dobrich/static/js/main.84bb30cc.js.map"
   },
   "entrypoints": [
-    "static/css/main.073c9b0a.css",
-    "static/js/main.2acf0bea.js"
+    "static/js/main.84bb30cc.js"
   ]
 }
